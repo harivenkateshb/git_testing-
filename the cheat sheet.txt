@@ -1,0 +1,15 @@
+>>Used to intialize a git repo
+git init 
+
+>> For setting remote url
+git remote add origin <enter url>
+
+>>To Add files
+git add <File name>
+
+>>To add all file 
+git add *
+
+>> To commit 
+git commit -m 
+
